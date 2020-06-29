@@ -8,9 +8,9 @@ Explore US Bikeshare Data
 Use python to understand US bikeshare data. Obtain statistics from an interactive environment where a user chooses the data and filter for the dataset to analyse.
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+chicago.csv,
+new_york_city.csv,
+washington.csv,
 
 ### Credits
 The following sources used to assist:
