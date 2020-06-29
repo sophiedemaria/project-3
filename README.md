@@ -16,3 +16,6 @@ washington.csv,
 The following sources used to assist:
 minutes datetime - https://stackoverflow.com/questions/12155908/convert-datetime-since-a-given-date-to-minutes
 color text in terminal - https://stackoverflow.com/questions/287871/how-to-print-colored-text-in-terminal-in-python
+
+### Notes
+Note from file new_york_city.csv: Date of '1899' noted for one data entry, assumed input error however have left as is
