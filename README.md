@@ -5,10 +5,14 @@ Bikeshare.py & README.md created in June 2020.
 Explore US Bikeshare Data  
 
 ### Description
-Describe what your project is about and what it does
+Use python to understand US bikeshare data. Obtain statistics from an interactive environment where a user chooses the data and filter for the dataset to analyse.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The following sources used to assist:
+minutes datetime - https://stackoverflow.com/questions/12155908/convert-datetime-since-a-given-date-to-minutes
+color text in terminal - https://stackoverflow.com/questions/287871/how-to-print-colored-text-in-terminal-in-python
